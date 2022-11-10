@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/R2-forms/static/css/main.7acaea2f.css",
-    "main.js": "/R2-forms/static/js/main.bb8bf3dc.js",
+    "main.js": "/R2-forms/static/js/main.1be6bc01.js",
     "index.html": "/R2-forms/index.html",
     "main.7acaea2f.css.map": "/R2-forms/static/css/main.7acaea2f.css.map",
-    "main.bb8bf3dc.js.map": "/R2-forms/static/js/main.bb8bf3dc.js.map"
+    "main.1be6bc01.js.map": "/R2-forms/static/js/main.1be6bc01.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.bb8bf3dc.js"
+    "static/js/main.1be6bc01.js"
   ]
 }
